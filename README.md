@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/AlexBond266">
-    <img src="https://avatars.dzeninfra.ru/get-zen_doc/1899117/pub_639cc5401416361203db8fde_639cc946d1874e1c5f7f9edb/orig" alt="MasterHead" width="600" height="400">
+    <img src="https://avatars.dzeninfra.ru/get-zen_doc/1899117/pub_639cc5401416361203db8fde_639cc946d1874e1c5f7f9edb/orig" alt="MasterHead" width="450" height="300">
   </a>
 </div>
 
