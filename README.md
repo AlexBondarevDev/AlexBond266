@@ -1,9 +1,12 @@
-[![MasterHead](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)](https://github.com/AlexBond266)
+<div align="center">
+  <a href="https://github.com/AlexBond266">
+    <img src="https://avatars.dzeninfra.ru/get-zen_doc/1899117/pub_639cc5401416361203db8fde_639cc946d1874e1c5f7f9edb/orig" alt="MasterHead">
+  </a>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A .NET backend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbond266&label=Profile%20views&color=0e75b6&style=flat" alt="alexbond266" /> </p>
-
 
 - 🌱 I’m currently learning **the combination of .NET and Docker to develop scalable and reliable applications.**
 
