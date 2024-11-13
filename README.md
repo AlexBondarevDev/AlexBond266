@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/AlexBond266">
+  <a href="https://github.com/AlexBondarevDev">
     <img src="https://avatars.dzeninfra.ru/get-zen_doc/1899117/pub_639cc5401416361203db8fde_639cc946d1874e1c5f7f9edb/orig" alt="MasterHead" width="450" height="300">
   </a>
 </div>
@@ -9,9 +9,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A .NET backend developer</h3>
 
-- 🌱 I’m currently learning **the combination of .NET and Docker to develop scalable and reliable applications.**
-
-- 📫 How to reach me **aleksandrbondarev266work@gmail.com**
+<h3 align="center">✈ And I believe that Programming is a way to make life more comfortable! 🌟</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -25,9 +23,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbond266&show_icons=true&locale=en&layout=compact" alt="alexbond266" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbondarevdev&show_icons=true&locale=en&layout=compact" alt="alexbondarevdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbond266&" alt="alexbond266" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbondarevdev&" alt="alexbondarevdev" /></p>
 
 
 
